@@ -1,5 +1,5 @@
 package com.example.productcatalog.dto;
-
+// just checking weather working for git
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
